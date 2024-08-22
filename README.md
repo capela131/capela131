@@ -12,4 +12,4 @@ Meu nome é Willian Rodrigo Faria
 
 @willianrodrigofaria
 
-![descrição do GIF][Uploading cats-cat.gif…]()
+![Uploading cats-cat.gif…]()
